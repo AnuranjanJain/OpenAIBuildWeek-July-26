@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build --webpack",
     "build:worker": "opennextjs-cloudflare build",
     "build:sites": "npm run build:worker && wrangler deploy --dry-run --outdir .sites-worker && node scripts/prepare-sites-build.mjs",
     "preview:worker": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
