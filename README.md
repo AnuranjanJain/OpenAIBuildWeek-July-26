@@ -2,6 +2,8 @@
 
 **Grow from what you have already built.**
 
+[Try the live demo](https://repobloom-build-week.asta-aflc.chatgpt.site/) · [View the source](https://github.com/AnuranjanJain/OpenAIBuildWeek-July-26)
+
 ProofGarden is an evidence-first learning coach for developers. It reads a public GitHub portfolio, maps demonstrated skills back to the repositories that prove them, finds the highest-leverage gaps, and creates a four-week learning sprint that upgrades existing work.
 
 Generic roadmaps begin by asking what someone says they know. ProofGarden begins with what they have shipped.

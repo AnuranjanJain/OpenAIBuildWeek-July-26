@@ -73,8 +73,8 @@ Personalization is not the same as asking more questions. Strong personalization
 
 ## Submission checklist
 
-- [ ] Add public deployment URL.
-- [ ] Add public GitHub repository URL.
+- [x] Add public deployment URL: https://repobloom-build-week.asta-aflc.chatgpt.site/
+- [x] Add public GitHub repository URL: https://github.com/AnuranjanJain/OpenAIBuildWeek-July-26
 - [ ] Record and upload the public YouTube demo under three minutes.
 - [ ] Explain Codex and GPT-5.6 in the demo audio.
 - [ ] Add the `/feedback` Codex Session ID used for the core build.
