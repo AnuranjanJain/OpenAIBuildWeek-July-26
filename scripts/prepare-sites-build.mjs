@@ -22,7 +22,7 @@ const handlerPath = path.join(server, "server-functions", "default", "handler.mj
 const handler = await readFile(handlerPath, "utf8");
 const requireBridge = [
   'import { createRequire as __createNodeRequire } from "node:module";',
-  "const require = __createNodeRequire(import.meta.url);",
+  'const require = __createNodeRequire("file:///worker.js");',
   "",
 ].join("\n");
 await writeFile(handlerPath, `${requireBridge}${handler}`, "utf8");
