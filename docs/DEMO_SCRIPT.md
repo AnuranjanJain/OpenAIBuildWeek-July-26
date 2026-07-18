@@ -1,20 +1,20 @@
-# ProofGarden demo script
+# Git --Profile Print demo script
 
 Target length: 2 minutes 40 seconds.
 
 ## 0:00–0:20 — Problem
 
-“Developers have unlimited tutorials but still struggle to decide what to learn next. Most roadmaps begin with a self-reported quiz and end with another throwaway project. ProofGarden starts with evidence: the work already visible in your GitHub.”
+“Developers have unlimited tutorials but still struggle to decide what to learn next. Most roadmaps begin with a self-reported quiz and end with another throwaway project. Git --Profile Print starts with evidence: the work already visible in your GitHub.”
 
 Show the landing page and skill constellation.
 
 ## 0:20–0:48 — Analyze a real profile
 
-“I enter my public GitHub username. No login is required, and ProofGarden never asks for private repository access.”
+“I enter my public GitHub username. No login is required, and Git --Profile Print never asks for private repository access.”
 
 Click **Map my growth**.
 
-“ProofGarden reads repository languages, descriptions, topics, recency, and project context. It turns those signals into a skill map and keeps links to every repository behind the recommendation.”
+“Git --Profile Print reads repository languages, descriptions, topics, recency, and project context. It turns those signals into a skill map and keeps links to every repository behind the recommendation.”
 
 Hover two skill nodes, then scroll to the evidence ledger.
 
@@ -38,7 +38,7 @@ Show the progress percentage and growing bloom.
 
 Click **Copy Codex kickoff**.
 
-“ProofGarden generates a bounded Codex kickoff prompt with the project, focus, and proof requirements. Codex is asked to inspect first, ask me to predict outcomes, work in small steps, and verify the result. It supports judgment instead of replacing it.”
+“Git --Profile Print generates a bounded Codex kickoff prompt with the project, focus, and proof requirements. Codex is asked to inspect first, ask me to predict outcomes, work in small steps, and verify the result. It supports judgment instead of replacing it.”
 
 Click **Download sprint**.
 
@@ -50,7 +50,7 @@ Click **Download sprint**.
 
 ## 2:34–2:40 — Close
 
-“ProofGarden turns repository history into the next proof of growth. Grow proof from what you have already built.”
+“Git --Profile Print turns repository history into the next proof of growth. Grow proof from what you have already built.”
 
 End on the bloom and final call-to-action.
 

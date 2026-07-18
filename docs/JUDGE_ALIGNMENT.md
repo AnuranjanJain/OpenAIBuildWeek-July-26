@@ -19,7 +19,7 @@ Sources:
 
 A strong entry should complete a meaningful workflow, remain understandable to non-experts, expose trust boundaries, and move the user from insight to action. A passive AI-generated dashboard is weaker than a product that helps someone finish real work.
 
-### ProofGarden response
+### Git --Profile Print response
 
 - The Proof Sprint turns analysis into a persistent four-week workflow.
 - The learner chooses the goal and anchor project instead of surrendering direction to the model.
@@ -46,7 +46,7 @@ Sources:
 
 She is likely to notice whether the main flow is coherent, delightful, and genuinely implemented—not merely a polished mockup. Small playful details are useful when they reinforce state and usability.
 
-### ProofGarden response
+### Git --Profile Print response
 
 - The complete flow now runs from profile analysis through learner choice, action tracking, export, and source inspection.
 - The progress plant blooms only when proof artifacts are completed; delight communicates real state.
@@ -72,7 +72,7 @@ Sources:
 
 The pitch needs a narrow user, a painful and current problem, a credible advantage, visible success criteria, and proof that the team finished the hard parts.
 
-### ProofGarden response
+### Git --Profile Print response
 
 - Target user: a developer learning with AI who has shipped projects but does not know which skill will create the most leverage next.
 - Differentiation: recommendations begin with repository evidence and compound existing work.
@@ -99,7 +99,7 @@ Sources:
 
 An education entry should make the learner think and build, preserve agency, avoid doing the learning for them, show evidence of progress, and work without privileged institutional access.
 
-### ProofGarden response
+### Git --Profile Print response
 
 - The learner must choose what to strengthen and where to prove it.
 - The Codex kickoff asks for predictions, small steps, explanation, and evidence rather than automatic completion.
@@ -127,7 +127,7 @@ Sources:
 
 He is likely to respond to software with a memorable personality, a real action loop, agent-readable architecture, and a demonstration that Codex was used as more than autocomplete.
 
-### ProofGarden response
+### Git --Profile Print response
 
 - The product creates an actionable Codex kickoff tied to a real repository.
 - The repository includes architecture, setup, product decisions, tests, and judge-facing documentation.
@@ -145,4 +145,4 @@ The common denominator is not “add more AI.” It is:
 5. Use Codex deeply and visibly.
 6. Make the experience memorable enough to explain in one sentence.
 
-ProofGarden's one-sentence story is: **It turns the projects you already shipped into a learner-controlled sprint where every new skill must produce proof.**
+Git --Profile Print's one-sentence story is: **It turns the projects you already shipped into a learner-controlled sprint where every new skill must produce proof.**

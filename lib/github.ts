@@ -25,7 +25,7 @@ type GitHubRepo = {
 const headers: HeadersInit = {
   Accept: "application/vnd.github+json",
   "X-GitHub-Api-Version": "2022-11-28",
-  "User-Agent": "ProofGarden-Build-Week",
+  "User-Agent": "Git-Profile-Print-Build-Week",
   ...(process.env.GITHUB_TOKEN
     ? { Authorization: `Bearer ${process.env.GITHUB_TOKEN}` }
     : {}),

@@ -1,18 +1,18 @@
-# ProofGarden
+# Git --Profile Print
 
 **Grow from what you have already built.**
 
 [Try the live demo](https://repobloom-build-week.asta-aflc.chatgpt.site/) · [View the source](https://github.com/AnuranjanJain/OpenAIBuildWeek-July-26)
 
-ProofGarden is an evidence-first learning coach for developers. It reads a public GitHub portfolio, maps demonstrated skills back to the repositories that prove them, finds the highest-leverage gaps, and creates a four-week learning sprint that upgrades existing work.
+Git --Profile Print is an evidence-first learning coach for developers. It reads a public GitHub portfolio, maps demonstrated skills back to the repositories that prove them, finds the highest-leverage gaps, and creates a four-week learning sprint that upgrades existing work.
 
-Generic roadmaps begin by asking what someone says they know. ProofGarden begins with what they have shipped.
+Generic roadmaps begin by asking what someone says they know. Git --Profile Print begins with what they have shipped.
 
 ## Why it exists
 
 Developers have more tutorials, courses, and AI-generated plans than ever, but choosing the right next skill is still difficult. Most recommendations ignore the learner's actual history and produce another disconnected tutorial project.
 
-ProofGarden makes three changes:
+Git --Profile Print makes three changes:
 
 1. **Evidence over self-reporting.** Recommendations are linked to public repository signals.
 2. **Existing work over throwaway exercises.** Each sprint upgrades a project the learner already owns.
@@ -109,11 +109,11 @@ Important decisions made during the Codex session include:
 
 ## Privacy and limits
 
-- ProofGarden reads public GitHub data only.
+- Git --Profile Print reads public GitHub data only.
 - GitHub and OpenAI credentials remain server-side.
 - No profile, repository, or analysis data is persisted.
 - Scores are directional learning signals, not hiring assessments.
-- Repository metadata cannot prove deep mastery by itself; ProofGarden surfaces the evidence it used so learners can challenge the recommendation.
+- Repository metadata cannot prove deep mastery by itself; Git --Profile Print surfaces the evidence it used so learners can challenge the recommendation.
 
 ## Hackathon
 
