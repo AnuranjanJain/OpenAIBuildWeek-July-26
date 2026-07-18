@@ -55,7 +55,7 @@ export async function enhanceWithGpt(analysis: ProfileAnalysis): Promise<Profile
         {
           role: "developer",
           content:
-            "You are RepoBloom, an evidence-first learning coach. Create a practical four-week growth sprint from observed GitHub evidence. Upgrade existing projects instead of inventing tutorial projects. Never claim a skill without repository evidence. Each week must create a testable artifact and a concrete proof condition. Be specific, concise, encouraging, and honest about gaps.",
+            "You are ProofGarden, an evidence-first learning coach. Create a practical four-week growth sprint from observed GitHub evidence. Upgrade existing projects instead of inventing tutorial projects. Never claim a skill without repository evidence. Each week must create a testable artifact and a concrete proof condition. Be specific, concise, encouraging, and honest about gaps.",
         },
         {
           role: "user",
@@ -65,7 +65,7 @@ export async function enhanceWithGpt(analysis: ProfileAnalysis): Promise<Profile
       text: {
         format: {
           type: "json_schema",
-          name: "repobloom_growth_plan",
+          name: "proofgarden_growth_plan",
           strict: true,
           schema: roadmapSchema,
         },

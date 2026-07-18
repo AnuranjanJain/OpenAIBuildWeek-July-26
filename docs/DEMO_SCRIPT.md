@@ -1,20 +1,20 @@
-# RepoBloom demo script
+# ProofGarden demo script
 
 Target length: 2 minutes 40 seconds.
 
 ## 0:00–0:20 — Problem
 
-“Developers have unlimited tutorials but still struggle to decide what to learn next. Most roadmaps begin with a self-reported quiz and end with another throwaway project. RepoBloom starts with evidence: the work already visible in your GitHub.”
+“Developers have unlimited tutorials but still struggle to decide what to learn next. Most roadmaps begin with a self-reported quiz and end with another throwaway project. ProofGarden starts with evidence: the work already visible in your GitHub.”
 
 Show the landing page and skill constellation.
 
 ## 0:20–0:48 — Analyze a real profile
 
-“I enter my public GitHub username. No login is required, and RepoBloom never asks for private repository access.”
+“I enter my public GitHub username. No login is required, and ProofGarden never asks for private repository access.”
 
 Click **Map my growth**.
 
-“RepoBloom reads repository languages, descriptions, topics, recency, and project context. It turns those signals into a skill map and keeps links to every repository behind the recommendation.”
+“ProofGarden reads repository languages, descriptions, topics, recency, and project context. It turns those signals into a skill map and keeps links to every repository behind the recommendation.”
 
 Hover two skill nodes, then scroll to the evidence ledger.
 
@@ -38,7 +38,7 @@ Show the progress percentage and growing bloom.
 
 Click **Copy Codex kickoff**.
 
-“RepoBloom generates a bounded Codex kickoff prompt with the project, focus, and proof requirements. Codex is asked to inspect first, ask me to predict outcomes, work in small steps, and verify the result. It supports judgment instead of replacing it.”
+“ProofGarden generates a bounded Codex kickoff prompt with the project, focus, and proof requirements. Codex is asked to inspect first, ask me to predict outcomes, work in small steps, and verify the result. It supports judgment instead of replacing it.”
 
 Click **Download sprint**.
 
@@ -50,7 +50,7 @@ Click **Download sprint**.
 
 ## 2:34–2:40 — Close
 
-“RepoBloom turns repository history into the next proof of growth. Grow from what you have already built.”
+“ProofGarden turns repository history into the next proof of growth. Grow proof from what you have already built.”
 
 End on the bloom and final call-to-action.
 

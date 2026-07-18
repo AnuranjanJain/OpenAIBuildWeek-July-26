@@ -2,7 +2,7 @@
 
 ## Project name
 
-RepoBloom
+ProofGarden
 
 ## Tagline
 
@@ -16,11 +16,11 @@ Education
 
 Developers do not lack learning content. They lack direction. Most roadmaps begin with a quiz, a job title, or a list of trending technologies, then prescribe new tutorial projects disconnected from everything the learner has already built.
 
-We wanted to reverse that process. A developer's repositories contain a living record of interests, strengths, unfinished ideas, and production gaps. RepoBloom turns that record into a learning plan that compounds existing work.
+We wanted to reverse that process. A developer's repositories contain a living record of interests, strengths, unfinished ideas, and production gaps. ProofGarden turns that record into a learning plan that compounds existing work.
 
 ## What it does
 
-RepoBloom analyzes a public GitHub profile and builds an evidence-backed skill map. Every signal links back to repositories that support it. It then identifies the highest-leverage growth areas and creates a four-week proof sprint anchored to one of the developer's real projects.
+ProofGarden analyzes a public GitHub profile and builds an evidence-backed skill map. Every signal links back to repositories that support it. It then identifies the highest-leverage growth areas and creates a four-week proof sprint anchored to one of the developer's real projects.
 
 The roadmap does not ask the learner to watch a course and tick a box. Each week ends with something other people can inspect: an evaluation dataset, automated test, benchmark, failure analysis, deployment, or reproducible demo.
 
@@ -28,7 +28,7 @@ The learner remains in control: they choose the capability and anchor project, c
 
 ## How we built it
 
-RepoBloom is a full-stack Next.js application. Its server route fetches public GitHub metadata and passes it through a deterministic evidence engine. This layer scores observable signals such as language, repository context, topics, stars, and recency.
+ProofGarden is a full-stack Next.js application. Its server route fetches public GitHub metadata and passes it through a deterministic evidence engine. This layer scores observable signals such as language, repository context, topics, stars, and recency.
 
 When an OpenAI API key is available, GPT-5.6 receives the compact evidence bundle through the Responses API. Structured Outputs constrain the result to a growth thesis, three focus areas, and four project-specific weeks with explicit deliverables and proof conditions. The model is instructed never to claim a skill without repository evidence.
 

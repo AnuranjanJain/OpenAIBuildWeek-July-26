@@ -1,16 +1,16 @@
-# RepoBloom
+# ProofGarden
 
 **Grow from what you have already built.**
 
-RepoBloom is an evidence-first learning coach for developers. It reads a public GitHub portfolio, maps demonstrated skills back to the repositories that prove them, finds the highest-leverage gaps, and creates a four-week learning sprint that upgrades existing work.
+ProofGarden is an evidence-first learning coach for developers. It reads a public GitHub portfolio, maps demonstrated skills back to the repositories that prove them, finds the highest-leverage gaps, and creates a four-week learning sprint that upgrades existing work.
 
-Generic roadmaps begin by asking what someone says they know. RepoBloom begins with what they have shipped.
+Generic roadmaps begin by asking what someone says they know. ProofGarden begins with what they have shipped.
 
 ## Why it exists
 
 Developers have more tutorials, courses, and AI-generated plans than ever, but choosing the right next skill is still difficult. Most recommendations ignore the learner's actual history and produce another disconnected tutorial project.
 
-RepoBloom makes three changes:
+ProofGarden makes three changes:
 
 1. **Evidence over self-reporting.** Recommendations are linked to public repository signals.
 2. **Existing work over throwaway exercises.** Each sprint upgrades a project the learner already owns.
@@ -107,11 +107,11 @@ Important decisions made during the Codex session include:
 
 ## Privacy and limits
 
-- RepoBloom reads public GitHub data only.
+- ProofGarden reads public GitHub data only.
 - GitHub and OpenAI credentials remain server-side.
 - No profile, repository, or analysis data is persisted.
 - Scores are directional learning signals, not hiring assessments.
-- Repository metadata cannot prove deep mastery by itself; RepoBloom surfaces the evidence it used so learners can challenge the recommendation.
+- Repository metadata cannot prove deep mastery by itself; ProofGarden surfaces the evidence it used so learners can challenge the recommendation.
 
 ## Hackathon
 
