@@ -31,7 +31,7 @@ const imports = canonicalSpecs.map(
 );
 const moduleEntries = requiredSpecs.map((spec) => {
   const canonical = spec.startsWith("node:") ? spec : `node:${spec}`;
-  return `  "${spec}": ${moduleIdentifier(canonical)},`;
+  return `  "${spec}": { ...${moduleIdentifier(canonical)} },`;
 });
 const requireBridge = [
   ...imports,
